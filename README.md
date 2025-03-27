@@ -64,8 +64,7 @@ The system works in three main stages:
    - Visualize the graph with: `MATCH (n) RETURN n LIMIT 25;`
 
 ## Results
-![whole_graph](https://hackmd.io/_uploads/Sk9jnQM6Jx.png)
-
+![whole_graph](https://github.com/ccl1616/Text2Graph-NLP-Powered-Dependency-Visualization-for-FDA-Reports/blob/main/whole_graph.png?raw=true)
 
 The output is a graph database in Neo4j where:
 - Each word/token is represented as a node with properties:
