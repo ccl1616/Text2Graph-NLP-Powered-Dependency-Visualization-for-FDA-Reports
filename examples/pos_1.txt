@@ -1,0 +1,92 @@
+Token	POS	Dependency
+----------------------------------------
+INFORMATION	PROPN	compound
+RECEIVED	PROPN	nsubj
+BY	ADP	compound
+MEDTRONIC	PROPN	dobj
+INDICATED	VERB	ROOT
+THAT	SCONJ	mark
+,	PUNCT	punct
+CUSTOMER	PROPN	nsubj
+PASSED	VERB	ccomp
+AWAY	ADV	advmod
+AT	ADP	prep
+HOME	PROPN	pobj
+ON	PROPN	dobj
+(	PUNCT	punct
+B)(6	NOUN	appos
+)	PUNCT	punct
+2022	NUM	appos
+.	PUNCT	punct
+
+THE	DET	det
+CUSTOMER	PROPN	nsubjpass
+WAS	AUX	auxpass
+NOT	PART	neg
+ADMITTED	VERB	ROOT
+TO	ADP	prep
+A	DET	det
+HOSPITAL	NOUN	compound
+PRIOR	NOUN	pobj
+TO	ADP	prep
+THE	DET	det
+REPORTED	PROPN	compound
+INCIDENT	PROPN	pobj
+.	PUNCT	punct
+
+THE	DET	det
+CUSTOMER	PROPN	nsubj
+PASSED	VERB	ROOT
+AWAY	ADV	advmod
+IN	ADP	prep
+SLEEP	PROPN	pobj
+.	PUNCT	punct
+
+THE	DET	det
+CAUSE	PROPN	ROOT
+FOR	ADP	prep
+DEATH	NOUN	pobj
+AND	CCONJ	cc
+CUSTOMERøS	VERB	conj
+BLOOD	NOUN	compound
+GLUCOSE	PROPN	compound
+VALUE	NOUN	nsubj
+WAS	AUX	ccomp
+UNKNOWN	ADJ	acomp
+.	PUNCT	punct
+
+THE	DET	det
+CUSTOMER	PROPN	nsubj
+WAS	AUX	aux
+WEARING	VERB	ROOT
+THE	DET	det
+INSULIN	NOUN	compound
+PUMP	PROPN	dobj
+
+AT	ADP	ROOT
+THE	DET	det
+TIME	PROPN	pobj
+OF	ADP	prep
+DEATH	NOUN	pobj
+.	PUNCT	punct
+
+THE	DET	det
+CUSTOMER	PROPN	nsubj
+WAS	AUX	aux
+NOT	PART	neg
+USING	VERB	ROOT
+THE	DET	det
+SENSOR	PROPN	dobj
+.	PUNCT	punct
+
+THE	DET	det
+INSULIN	PROPN	compound
+PUMP	PROPN	nsubj
+WILL	AUX	aux
+NOT	PART	neg
+BE	AUX	ROOT
+RETURNED	PROPN	attr
+FOR	ADP	prep
+ANALYSIS	PROPN	pobj
+.	PUNCT	punct
+
